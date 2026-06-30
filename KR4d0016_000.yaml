@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0016/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部三
+  hash: sha256:f07461303fab15c789ad7c1df69e91ba77e3a1645c0ea5d385f94292466f69db
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0016_WYG_000-1a, image: WYG1087/WYG1087-0031a.png}
+body:
+  text: 元獻遺文别集類二宋提要臣等謹案元獻遺文一卷宋晏殊撰殊字同叔臨川人景德初以神童召試賜進士出身慶厯中拜集賢殿學士同平章事元獻其諡也事蹟具宋史本傳東都事略稱有文集二百四十卷中興書目作九十四卷文獻通考載臨川集三十卷紫薇集一卷陳振孫云其五世孫大正為年譜一卷言先元獻嘗自差次起儒館至學士為臨川集三十卷起樞廷至宰席為二府集二十五卷云云今皆不傳此本為國朝康熙中慈溪胡亦堂所輯僅文六篇詩六首餘皆詩餘殊當北宋盛時日與諸名士文酒唱和其零章斷什往往散見諸書如復齊漫録古今嵗時雜詠侯鯖録西清詩話所載諸詩此本皆未收入未為完備然殊在北宋號曰能文雖二宋之作亦資其㸃定如能改齊漫録所記白雪久殘梁復道黃頭閒守漢樓船者其推重可以想見原集既已無存則此裒輯之編僅存什一於千百者亦不能不録備一家矣乾隆四十六年正月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:89973b74315d3ef5da33e9a34c048f14f8763fbc5adeade809981407993c2219
+metadata:
+  title: 元獻遺文
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:50:16.960080'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4d0016/KR4d0016_000.txt
+hash: sha256:0de57bca4690c5befb979dedc4072407955f36508353cbceba9afb78889f7851
