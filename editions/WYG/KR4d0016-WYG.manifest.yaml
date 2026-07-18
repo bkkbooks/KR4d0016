@@ -20,7 +20,7 @@ assets:
   - {seq: 0, filename: KR4d0016_000-WYG.yaml, hash: 'sha256:7742486bbbb828d834eee7628036ab2159deadad8aa99fc94efd450fc03c5abd'}
   - {seq: 1, filename: KR4d0016_001-WYG.yaml, hash: 'sha256:5f41704fd5e2cbd0c6ef93ca346c933d34ce387ce8b5152b0d21a7415220a615'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0016_000-WYG.markers.yaml, hash: 'sha256:b5b83b462a9e7ba508d7ec831307a06c3f9664af5f0e38cdab9cec8ff8f5904c'}
+  - {seq: 0, role: markers, filename: assets/KR4d0016_000-WYG.markers.yaml, hash: 'sha256:6512e6ed84a95b6104400dc848df3ab4cc386ca4d1f113f6e94dcb1a9dad8848'}
   - {seq: 1, role: markers, filename: assets/KR4d0016_001-WYG.markers.yaml, hash: 'sha256:9066dfeb782a4b4112cb278df2fb117acfb8bb7362e4cdca5f48e5954c75897a'}
 table_of_contents:
 - ref:
@@ -43,4 +43,4 @@ table_of_contents:
   label: 元獻遺文
   type: section
   level: 1
-hash: sha256:f56a03df8dddd39aae128371a00a4b3905911c162d3e360a4a575413be53401a
+hash: sha256:532726d1e57570b67c27729d0ce076c3d21c48c20bd024d5b69049c8acbf9416
